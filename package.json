@@ -1,0 +1,14 @@
+{
+  "name": "erc3643-compliance-dashboard",
+  "version": "0.1.0",
+  "description": "A TypeScript dashboard for RWA issuers to manage identity registries and whitelist security token holders.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
